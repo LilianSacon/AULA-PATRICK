@@ -11,6 +11,7 @@ namespace MeuPrimeiroCodigo
             double nota3;
             double media;
 
+            
             Console.WriteLine("Digite a Nota 1:");
             Double.TryParse(Console.ReadLine(), out nota1);
 
@@ -20,7 +21,8 @@ namespace MeuPrimeiroCodigo
             Console.WriteLine("Digite a Nota 3:");
             Double.TryParse(Console.ReadLine(), out nota3);
 
-            media = (nota1 + nota2 + nota3) / 3;
+            media = Math.Round(((nota1 + nota2 + nota3) / 3),2);
+
             Console.WriteLine("Sua media e");
             Console.WriteLine(media);
 
