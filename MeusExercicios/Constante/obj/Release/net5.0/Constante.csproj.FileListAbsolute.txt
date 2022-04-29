@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\bin\Release\net5.0\Constante.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\bin\Release\net5.0\Constante.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\bin\Release\net5.0\Constante.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\bin\Release\net5.0\Constante.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\bin\Release\net5.0\Constante.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\bin\Release\net5.0\Constante.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\refint\Constante.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\Constante.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Constante\obj\Release\net5.0\ref\Constante.dll

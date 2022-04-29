@@ -35,24 +35,23 @@ namespace Calculadora
             {
                 Console.WriteLine("Soma = {0}", numero1 + numero2);
             }
-            if (operador == "-")
+            else if (operador == "-")
             {
                 Console.WriteLine("Subtração = {0}", numero1 - numero2);
             }
-            if (operador == "*")
+            else if (operador == "*")
             {
                 Console.WriteLine("Multiplicação = {0}", numero1 * numero2);
             }
-            if (operador == "/" && numero2 == 0)
+            else if (operador == "/" && numero2 == 0)
             {
                 Console.WriteLine("Não foi possível executar o calculo");
             }
-            if (operador == "/")
-            {
-             if (numero2 != 0)
+            else if (operador == "/")
+                                
                 Console.WriteLine("Divisão = {0}", numero1 / numero2);
-            }
-            if (operador != "+" && operador != "-" && operador != "*" && operador != "/")
+            
+            else if (operador != "+" && operador != "-" && operador != "*" && operador != "/")
             {
                 Console.WriteLine("Operador incorreto");
             }
