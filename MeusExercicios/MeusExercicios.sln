@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constante", "Constante\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Extremamentebasico", "Beecrowd_Extremamentebasico\Beecrowd_Extremamentebasico.csproj", "{A33B64D9-DAB2-473B-8A90-A8E3A2C43C57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_AreaDoCirculo", "Beecrowd_AreaDoCirculo\Beecrowd_AreaDoCirculo.csproj", "{FDDD6C1B-4A81-49DB-B35C-86D8528DFA8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A33B64D9-DAB2-473B-8A90-A8E3A2C43C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A33B64D9-DAB2-473B-8A90-A8E3A2C43C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A33B64D9-DAB2-473B-8A90-A8E3A2C43C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDD6C1B-4A81-49DB-B35C-86D8528DFA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDD6C1B-4A81-49DB-B35C-86D8528DFA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDD6C1B-4A81-49DB-B35C-86D8528DFA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDD6C1B-4A81-49DB-B35C-86D8528DFA8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
