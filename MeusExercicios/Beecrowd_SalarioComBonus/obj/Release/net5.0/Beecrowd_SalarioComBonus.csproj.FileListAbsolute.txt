@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\bin\Release\net5.0\Beecrowd_SalarioComBonus.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\bin\Release\net5.0\Beecrowd_SalarioComBonus.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\bin\Release\net5.0\Beecrowd_SalarioComBonus.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\bin\Release\net5.0\Beecrowd_SalarioComBonus.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\bin\Release\net5.0\Beecrowd_SalarioComBonus.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\bin\Release\net5.0\Beecrowd_SalarioComBonus.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\refint\Beecrowd_SalarioComBonus.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\Beecrowd_SalarioComBonus.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SalarioComBonus\obj\Release\net5.0\ref\Beecrowd_SalarioComBonus.dll

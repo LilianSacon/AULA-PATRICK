@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Diferenca", "Beecr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_SALARIO", "Beecrowd_SALARIO\Beecrowd_SALARIO.csproj", "{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_SalarioComBonus", "Beecrowd_SalarioComBonus\Beecrowd_SalarioComBonus.csproj", "{A0A3C61D-200B-4F86-971A-523704942940}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A3C61D-200B-4F86-971A-523704942940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A3C61D-200B-4F86-971A-523704942940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A3C61D-200B-4F86-971A-523704942940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A3C61D-200B-4F86-971A-523704942940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
