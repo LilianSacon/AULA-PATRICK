@@ -6,21 +6,20 @@ namespace Beecrowd_Animal
     {
         static void Main(string[] args)
         {
-            string Entrada1;
-            string Entrada2;
-            string Entrada3;
-            Console.WriteLine("");
-            Entrada1 = Console.ReadLine();
-            Console.WriteLine("");
-            Entrada2 = Console.ReadLine();
-            Console.WriteLine("");
-            Entrada3 = Console.ReadLine();
-
-            if (Entrada1 == ("vertebrado"))
+            string entrada1;
+            string entrada2;
+            string entrada3;
+            
+            entrada1 = Console.ReadLine();
+            
+            entrada2 = Console.ReadLine();
+            
+            entrada3 = Console.ReadLine();
+            if (entrada1 == ("vertebrado"))
             {
-                if (Entrada2 == ("ave"))
+                if (entrada2 == ("ave"))
                 {
-                    if (Entrada3 == ("carnivoro"))
+                    if (entrada3 == ("carnivoro"))
                     {
                         Console.WriteLine("aguia");
                     }
@@ -31,7 +30,7 @@ namespace Beecrowd_Animal
                 }
                 else
                 {
-                    if (Entrada3 == ("onivoro"))
+                    if (entrada3 == ("onivoro"))
                     {
                         Console.WriteLine("homem");
                     }
@@ -43,9 +42,12 @@ namespace Beecrowd_Animal
             }
             else
             {
-                if (Entrada2 == ("inseto"))
+                if (entrada2 == ("inseto"))
                 {
-                    if (Entrada3 == ("hematofago")) { Console.WriteLine("pulga"); }
+                    if (entrada3 == ("hematofago"))
+                    {
+                        Console.WriteLine("pulga");
+                    }
                     else
                     {
                         Console.WriteLine("lagarta");
@@ -53,16 +55,16 @@ namespace Beecrowd_Animal
                 }
                 else
                 {
-                    if (Entrada3 == ("hematofago")) { Console.WriteLine("sanguessuga"); }
-                    else { Console.WriteLine("minhoca"); }
+                    if (entrada3 == ("hematofago"))
+                    {
+                        Console.WriteLine("sanguessuga");
+                    }
+                    else
+                    {
+                        Console.WriteLine("minhoca");
+                    }
                 }
             }
         }
-
-                    
-                    
-                
-            
-        
     }
 }
