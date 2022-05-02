@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_DDD", "Beecrowd_DD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Diferenca", "Beecrowd_Diferenca\Beecrowd_Diferenca.csproj", "{559FEDDB-EB5A-4922-AF4A-7DF513269765}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_SALARIO", "Beecrowd_SALARIO\Beecrowd_SALARIO.csproj", "{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{559FEDDB-EB5A-4922-AF4A-7DF513269765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{559FEDDB-EB5A-4922-AF4A-7DF513269765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{559FEDDB-EB5A-4922-AF4A-7DF513269765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17C1C43-0A5B-4AA1-9784-D5D58A3A9F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
