@@ -10,6 +10,7 @@ namespace Beecrowd_DDD
             {
                 int.TryParse(Console.ReadLine(), out DDD);
             }
+
             if (DDD == (61))
             {
                 Console.WriteLine("Brasilia");
