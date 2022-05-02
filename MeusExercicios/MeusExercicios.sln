@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_AumentoSalario", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Animal", "Beecrowd_Animal\Beecrowd_Animal.csproj", "{7A1D1EE2-ABD3-47B6-920C-4F3AEDEB480B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_DDD", "Beecrowd_DDD\Beecrowd_DDD.csproj", "{35EF54B6-D4C7-4730-A0F7-AF9EF641299F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7A1D1EE2-ABD3-47B6-920C-4F3AEDEB480B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A1D1EE2-ABD3-47B6-920C-4F3AEDEB480B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A1D1EE2-ABD3-47B6-920C-4F3AEDEB480B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EF54B6-D4C7-4730-A0F7-AF9EF641299F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EF54B6-D4C7-4730-A0F7-AF9EF641299F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EF54B6-D4C7-4730-A0F7-AF9EF641299F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EF54B6-D4C7-4730-A0F7-AF9EF641299F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

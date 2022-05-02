@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\bin\Release\net5.0\Beecrowd_DDD.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\bin\Release\net5.0\Beecrowd_DDD.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\bin\Release\net5.0\Beecrowd_DDD.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\bin\Release\net5.0\Beecrowd_DDD.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\bin\Release\net5.0\Beecrowd_DDD.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\bin\Release\net5.0\Beecrowd_DDD.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\refint\Beecrowd_DDD.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\Beecrowd_DDD.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DDD\obj\Release\net5.0\ref\Beecrowd_DDD.dll
