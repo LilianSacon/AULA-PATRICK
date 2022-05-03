@@ -54,7 +54,8 @@ namespace Calculadora
             else if (operador != "+" && operador != "-" && operador != "*" && operador != "/")
             {
                 Console.WriteLine("Operador incorreto");
-            }
+            } 
+
 
 
 
