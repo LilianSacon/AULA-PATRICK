@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\bin\Release\net5.0\Beecrowd_Consumo.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\bin\Release\net5.0\Beecrowd_Consumo.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\bin\Release\net5.0\Beecrowd_Consumo.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\bin\Release\net5.0\Beecrowd_Consumo.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\bin\Release\net5.0\Beecrowd_Consumo.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\bin\Release\net5.0\Beecrowd_Consumo.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\refint\Beecrowd_Consumo.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\Beecrowd_Consumo.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Consumo\obj\Release\net5.0\ref\Beecrowd_Consumo.dll
