@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\bin\Release\net5.0\Beecrowd_GastoDeCombustivel.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\bin\Release\net5.0\Beecrowd_GastoDeCombustivel.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\bin\Release\net5.0\Beecrowd_GastoDeCombustivel.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\bin\Release\net5.0\Beecrowd_GastoDeCombustivel.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\bin\Release\net5.0\Beecrowd_GastoDeCombustivel.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\bin\Release\net5.0\Beecrowd_GastoDeCombustivel.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\refint\Beecrowd_GastoDeCombustivel.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\Beecrowd_GastoDeCombustivel.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_GastoDeCombustivel\obj\Release\net5.0\ref\Beecrowd_GastoDeCombustivel.dll
