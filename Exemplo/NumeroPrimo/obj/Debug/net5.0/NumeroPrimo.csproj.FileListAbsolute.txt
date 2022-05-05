@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.exe
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.pdb
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\refint\NumeroPrimo.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.pdb
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\NumeroPrimo\obj\Debug\net5.0\ref\NumeroPrimo.dll

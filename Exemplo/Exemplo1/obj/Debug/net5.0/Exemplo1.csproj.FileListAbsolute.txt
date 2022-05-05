@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\bin\Debug\net5.0\Exemplo1.exe
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\bin\Debug\net5.0\Exemplo1.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\bin\Debug\net5.0\Exemplo1.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\bin\Debug\net5.0\Exemplo1.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\bin\Debug\net5.0\Exemplo1.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\bin\Debug\net5.0\Exemplo1.pdb
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\refint\Exemplo1.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.pdb
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\Exemplo1.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Exemplo1\obj\Debug\net5.0\ref\Exemplo1.dll
