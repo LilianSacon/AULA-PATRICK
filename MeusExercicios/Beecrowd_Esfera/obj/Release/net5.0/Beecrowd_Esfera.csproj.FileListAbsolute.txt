@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\bin\Release\net5.0\Beecrowd_Esfera.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\bin\Release\net5.0\Beecrowd_Esfera.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\bin\Release\net5.0\Beecrowd_Esfera.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\bin\Release\net5.0\Beecrowd_Esfera.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\bin\Release\net5.0\Beecrowd_Esfera.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\bin\Release\net5.0\Beecrowd_Esfera.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\refint\Beecrowd_Esfera.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\Beecrowd_Esfera.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Esfera\obj\Release\net5.0\ref\Beecrowd_Esfera.dll
