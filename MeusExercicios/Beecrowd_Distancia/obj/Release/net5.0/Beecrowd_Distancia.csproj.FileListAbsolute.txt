@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\bin\Release\net5.0\Beecrowd_Distancia.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\bin\Release\net5.0\Beecrowd_Distancia.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\bin\Release\net5.0\Beecrowd_Distancia.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\bin\Release\net5.0\Beecrowd_Distancia.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\bin\Release\net5.0\Beecrowd_Distancia.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\bin\Release\net5.0\Beecrowd_Distancia.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\refint\Beecrowd_Distancia.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\Beecrowd_Distancia.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Distancia\obj\Release\net5.0\ref\Beecrowd_Distancia.dll

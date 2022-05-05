@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Esfera", "Beecrowd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Consumo", "Beecrowd_Consumo\Beecrowd_Consumo.csproj", "{4DFA1792-C75C-4BA1-80BC-EFD518EC50A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Distancia", "Beecrowd_Distancia\Beecrowd_Distancia.csproj", "{2C53C36D-6E9E-49AD-AE19-75995C549236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4DFA1792-C75C-4BA1-80BC-EFD518EC50A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DFA1792-C75C-4BA1-80BC-EFD518EC50A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DFA1792-C75C-4BA1-80BC-EFD518EC50A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C53C36D-6E9E-49AD-AE19-75995C549236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C53C36D-6E9E-49AD-AE19-75995C549236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C53C36D-6E9E-49AD-AE19-75995C549236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C53C36D-6E9E-49AD-AE19-75995C549236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
