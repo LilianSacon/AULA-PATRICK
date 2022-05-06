@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Distancia", "Beecr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_GastoDeCombustivel", "Beecrowd_GastoDeCombustivel\Beecrowd_GastoDeCombustivel.csproj", "{AC8467DB-EA3B-4705-AA97-294CB8F3134D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Cedulas", "Beecrowd_Cedulas\Beecrowd_Cedulas.csproj", "{068A2428-6897-4876-B834-7425D4951209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{AC8467DB-EA3B-4705-AA97-294CB8F3134D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC8467DB-EA3B-4705-AA97-294CB8F3134D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC8467DB-EA3B-4705-AA97-294CB8F3134D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068A2428-6897-4876-B834-7425D4951209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068A2428-6897-4876-B834-7425D4951209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068A2428-6897-4876-B834-7425D4951209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068A2428-6897-4876-B834-7425D4951209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
