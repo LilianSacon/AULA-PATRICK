@@ -10,7 +10,7 @@ namespace Beecrowd_NumerosPares
             double numero2;
             int contador;
 
-            for (contador = 0; contador <= 100; contador += 2)
+            for (contador = 2; contador <= 100; contador += 2)
                 Console.WriteLine(contador);
             {
                 if (contador % 2 == 0)
