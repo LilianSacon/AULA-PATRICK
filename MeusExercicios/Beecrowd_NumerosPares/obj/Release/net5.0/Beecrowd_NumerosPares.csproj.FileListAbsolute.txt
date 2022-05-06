@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\bin\Release\net5.0\Beecrowd_NumerosPares.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\bin\Release\net5.0\Beecrowd_NumerosPares.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\bin\Release\net5.0\Beecrowd_NumerosPares.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\bin\Release\net5.0\Beecrowd_NumerosPares.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\bin\Release\net5.0\Beecrowd_NumerosPares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\bin\Release\net5.0\Beecrowd_NumerosPares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\refint\Beecrowd_NumerosPares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\Beecrowd_NumerosPares.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPares\obj\Release\net5.0\ref\Beecrowd_NumerosPares.dll

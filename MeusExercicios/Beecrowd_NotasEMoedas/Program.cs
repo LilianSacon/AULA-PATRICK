@@ -8,7 +8,7 @@ namespace Beecrowd_NotasEMoedas
         {
             double valor;
             double.TryParse(Console.ReadLine(), out valor);
-            Console.WriteLine("NOTAS: ");
+            Console.WriteLine("NOTAS:");
             
             int nota100 = (int)Math.Truncate(valor / 100.0);
             valor = valor - (nota100 * 100);
@@ -34,31 +34,31 @@ namespace Beecrowd_NotasEMoedas
             valor = valor - (nota2 * 2);
             Console.WriteLine(nota2 + " nota(s) de R$ 2,00");
 
-            Console.WriteLine("MOEDAS: ");
+            Console.WriteLine("MOEDAS:");
 
             double moeda1 = Math.Truncate(valor / 1.0);
             valor = valor - (moeda1 * 1);
-            Console.WriteLine(moeda1 + " moeda(s) de R$ 1.00");
+            Console.WriteLine(moeda1 + " moeda(s) de R$ 1,00");
 
             double moeda2 = Math.Truncate(valor / 0.5);
             valor = valor - (moeda2 * 0.5);
-            Console.WriteLine(moeda2 + " moeda(s) de R$ 0.50");
+            Console.WriteLine(moeda2 + " moeda(s) de R$ 0,50");
 
             double moeda3 = Math.Truncate(valor / 0.25);
             valor = valor - (moeda3 * 0.25);
-            Console.WriteLine(moeda3 + " moeda(s) de R$ 0.25");
+            Console.WriteLine(moeda3 + " moeda(s) de R$ 0,25");
 
             double moeda4 = Math.Truncate(valor / 0.1);
             valor = valor - (moeda4 * 0.1);
-            Console.WriteLine(moeda4 + " moeda(s) de R$ 0.10");
+            Console.WriteLine(moeda4 + " moeda(s) de R$ 0,10");
 
             double moeda5 = Math.Truncate(valor / 0.05);
             valor = valor - (moeda5 * 0.05);
-            Console.WriteLine(moeda5 + " moeda(s) de R$ 0.05");
+            Console.WriteLine(moeda5 + " moeda(s) de R$ 0,05");
 
             double moeda6 = Math.Truncate(valor / 0.01);
             valor = valor - (moeda6 * 0.01);
-            Console.WriteLine(moeda6 + " moeda(s) de R$ 0.01");
+            Console.WriteLine(moeda6 + " moeda(s) de R$ 0,01");
         }
     }
 }

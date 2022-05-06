@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_IdadeEmDias", "Bee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_NotasEMoedas", "Beecrowd_NotasEMoedas\Beecrowd_NotasEMoedas.csproj", "{37C76083-4D8D-4653-BC42-22DC8FA77E49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_NumerosPares", "Beecrowd_NumerosPares\Beecrowd_NumerosPares.csproj", "{C337F631-C97E-4F1A-B33C-B627E77D6530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{37C76083-4D8D-4653-BC42-22DC8FA77E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C76083-4D8D-4653-BC42-22DC8FA77E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C76083-4D8D-4653-BC42-22DC8FA77E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C337F631-C97E-4F1A-B33C-B627E77D6530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C337F631-C97E-4F1A-B33C-B627E77D6530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C337F631-C97E-4F1A-B33C-B627E77D6530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C337F631-C97E-4F1A-B33C-B627E77D6530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
