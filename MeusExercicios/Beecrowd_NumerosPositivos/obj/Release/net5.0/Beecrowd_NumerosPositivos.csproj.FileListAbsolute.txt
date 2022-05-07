@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\bin\Release\net5.0\Beecrowd_NumerosPositivos.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\bin\Release\net5.0\Beecrowd_NumerosPositivos.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\bin\Release\net5.0\Beecrowd_NumerosPositivos.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\bin\Release\net5.0\Beecrowd_NumerosPositivos.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\bin\Release\net5.0\Beecrowd_NumerosPositivos.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\bin\Release\net5.0\Beecrowd_NumerosPositivos.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\refint\Beecrowd_NumerosPositivos.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\Beecrowd_NumerosPositivos.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NumerosPositivos\obj\Release\net5.0\ref\Beecrowd_NumerosPositivos.dll
