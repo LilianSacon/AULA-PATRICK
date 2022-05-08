@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\bin\Release\net5.0\Beecrowd_PositivosEMedia.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\bin\Release\net5.0\Beecrowd_PositivosEMedia.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\bin\Release\net5.0\Beecrowd_PositivosEMedia.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\bin\Release\net5.0\Beecrowd_PositivosEMedia.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\bin\Release\net5.0\Beecrowd_PositivosEMedia.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\bin\Release\net5.0\Beecrowd_PositivosEMedia.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\refint\Beecrowd_PositivosEMedia.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\Beecrowd_PositivosEMedia.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_PositivosEMedia\obj\Release\net5.0\ref\Beecrowd_PositivosEMedia.dll
