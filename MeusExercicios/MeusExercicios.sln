@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_NumerosPositivos",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_PositivosEMedia", "Beecrowd_PositivosEMedia\Beecrowd_PositivosEMedia.csproj", "{859F2C1C-C62E-45B1-AE74-A5EF3FEC19EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Pares_Impares_Positivos_Negativos", "Beecrowd_Pares_Impares_Positivos_Negativos\Beecrowd_Pares_Impares_Positivos_Negativos.csproj", "{9A75527D-E613-4A24-9660-DDB49EDF52D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{859F2C1C-C62E-45B1-AE74-A5EF3FEC19EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{859F2C1C-C62E-45B1-AE74-A5EF3FEC19EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{859F2C1C-C62E-45B1-AE74-A5EF3FEC19EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A75527D-E613-4A24-9660-DDB49EDF52D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A75527D-E613-4A24-9660-DDB49EDF52D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A75527D-E613-4A24-9660-DDB49EDF52D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A75527D-E613-4A24-9660-DDB49EDF52D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
