@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\bin\Release\net5.0\Beecrowd_numerosimpares.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\bin\Release\net5.0\Beecrowd_numerosimpares.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\bin\Release\net5.0\Beecrowd_numerosimpares.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\bin\Release\net5.0\Beecrowd_numerosimpares.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\bin\Release\net5.0\Beecrowd_numerosimpares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\bin\Release\net5.0\Beecrowd_numerosimpares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\refint\Beecrowd_numerosimpares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\Beecrowd_numerosimpares.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_numerosimpares\obj\Release\net5.0\ref\Beecrowd_numerosimpares.dll

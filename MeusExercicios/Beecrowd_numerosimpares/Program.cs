@@ -6,7 +6,22 @@ namespace Beecrowd_numerosimpares
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int X;
+            int i;
+            
+
+            int.TryParse(Console.ReadLine(), out X);
+            for (i = 1; i <= X; i++)
+            
+                
+            { 
+                if (i % 2 == 1)
+                {
+                    Console.WriteLine(i);
+                }
+                
+
+            }
         }
     }
 }
