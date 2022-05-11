@@ -11,21 +11,22 @@ namespace Lernumeroexerciciovetor
             //depois imprima de traz para a frente os valores lidos
 
             int[] X = new int[5]; ;
-            Entrada = new int[5];
-            Entrada1 = new int[5];
+            int Entrada;
+            int Entrada1;
             int i;
             
 
             int.TryParse(Console.ReadLine(), out Entrada);
-            X = new int[Entrada];
-            X[0] = 5;
-            for (i = 0; i <= Entrada; i++)
+                        
+            for (i = 0; i < Entrada; i++)
             {
                 int.TryParse(Console.ReadLine(), out Entrada1);
-                X[i] = Entrada1;
-                Console.WriteLine(Entrada);
+                X[i] = Entrada1;               
             }
-
+            for (i = Entrada - 1; i >= 0; i--)
+            {
+                Console.WriteLine(X[i]);
+            }
 
         }
     }
