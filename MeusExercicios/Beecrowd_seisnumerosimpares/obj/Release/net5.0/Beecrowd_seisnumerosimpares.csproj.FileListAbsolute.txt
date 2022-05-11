@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\bin\Release\net5.0\Beecrowd_seisnumerosimpares.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\bin\Release\net5.0\Beecrowd_seisnumerosimpares.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\bin\Release\net5.0\Beecrowd_seisnumerosimpares.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\bin\Release\net5.0\Beecrowd_seisnumerosimpares.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\bin\Release\net5.0\Beecrowd_seisnumerosimpares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\bin\Release\net5.0\Beecrowd_seisnumerosimpares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\refint\Beecrowd_seisnumerosimpares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\Beecrowd_seisnumerosimpares.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_seisnumerosimpares\obj\Release\net5.0\ref\Beecrowd_seisnumerosimpares.dll

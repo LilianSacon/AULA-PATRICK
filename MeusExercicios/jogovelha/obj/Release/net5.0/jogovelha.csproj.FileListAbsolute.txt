@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\bin\Release\net5.0\jogovelha.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\bin\Release\net5.0\jogovelha.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\bin\Release\net5.0\jogovelha.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\bin\Release\net5.0\jogovelha.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\bin\Release\net5.0\jogovelha.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\bin\Release\net5.0\jogovelha.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\refint\jogovelha.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\jogovelha.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\jogovelha\obj\Release\net5.0\ref\jogovelha.dll

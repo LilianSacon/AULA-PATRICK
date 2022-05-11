@@ -55,11 +55,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_NumerosPares", "Be
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_NumerosPositivos", "Beecrowd_NumerosPositivos\Beecrowd_NumerosPositivos.csproj", "{B0BAB6C8-9230-439A-A0F6-A802897B8CC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_PositivosEMedia", "Beecrowd_PositivosEMedia\Beecrowd_PositivosEMedia.csproj", "{859F2C1C-C62E-45B1-AE74-A5EF3FEC19EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_PositivosEMedia", "Beecrowd_PositivosEMedia\Beecrowd_PositivosEMedia.csproj", "{859F2C1C-C62E-45B1-AE74-A5EF3FEC19EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Pares_Impares_Positivos_Negativos", "Beecrowd_Pares_Impares_Positivos_Negativos\Beecrowd_Pares_Impares_Positivos_Negativos.csproj", "{9A75527D-E613-4A24-9660-DDB49EDF52D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_Pares_Impares_Positivos_Negativos", "Beecrowd_Pares_Impares_Positivos_Negativos\Beecrowd_Pares_Impares_Positivos_Negativos.csproj", "{9A75527D-E613-4A24-9660-DDB49EDF52D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_numerosimpares", "Beecrowd_numerosimpares\Beecrowd_numerosimpares.csproj", "{2B86B268-B42A-47EA-ABE6-68BEC4241EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_numerosimpares", "Beecrowd_numerosimpares\Beecrowd_numerosimpares.csproj", "{2B86B268-B42A-47EA-ABE6-68BEC4241EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_seisnumerosimpares", "Beecrowd_seisnumerosimpares\Beecrowd_seisnumerosimpares.csproj", "{5C2CEE73-9819-45DA-87A8-D4597B3E7FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lernumeroexerciciovetor", "Lernumeroexerciciovetor\Lernumeroexerciciovetor.csproj", "{DB100384-6586-4AEF-BFC4-F17135B3742D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogovelha", "jogovelha\jogovelha.csproj", "{5FA30236-9378-427D-987B-D35CBDAE318F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +189,18 @@ Global
 		{2B86B268-B42A-47EA-ABE6-68BEC4241EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B86B268-B42A-47EA-ABE6-68BEC4241EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B86B268-B42A-47EA-ABE6-68BEC4241EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2CEE73-9819-45DA-87A8-D4597B3E7FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2CEE73-9819-45DA-87A8-D4597B3E7FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2CEE73-9819-45DA-87A8-D4597B3E7FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2CEE73-9819-45DA-87A8-D4597B3E7FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB100384-6586-4AEF-BFC4-F17135B3742D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB100384-6586-4AEF-BFC4-F17135B3742D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB100384-6586-4AEF-BFC4-F17135B3742D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB100384-6586-4AEF-BFC4-F17135B3742D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA30236-9378-427D-987B-D35CBDAE318F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA30236-9378-427D-987B-D35CBDAE318F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA30236-9378-427D-987B-D35CBDAE318F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA30236-9378-427D-987B-D35CBDAE318F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
