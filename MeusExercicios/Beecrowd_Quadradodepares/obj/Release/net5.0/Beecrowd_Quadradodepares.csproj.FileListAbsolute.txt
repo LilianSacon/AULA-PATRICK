@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\bin\Release\net5.0\Beecrowd_Quadradodepares.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\bin\Release\net5.0\Beecrowd_Quadradodepares.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\bin\Release\net5.0\Beecrowd_Quadradodepares.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\bin\Release\net5.0\Beecrowd_Quadradodepares.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\bin\Release\net5.0\Beecrowd_Quadradodepares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\bin\Release\net5.0\Beecrowd_Quadradodepares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\refint\Beecrowd_Quadradodepares.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\Beecrowd_Quadradodepares.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Quadradodepares\obj\Release\net5.0\ref\Beecrowd_Quadradodepares.dll

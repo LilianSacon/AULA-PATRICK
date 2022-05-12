@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jogovelha", "jogovelha\jogo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Intervalo2", "Beecrowd_Intervalo2\Beecrowd_Intervalo2.csproj", "{5281FEE2-E339-4F9B-ADB4-5A3EA228DE76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Quadradodepares", "Beecrowd_Quadradodepares\Beecrowd_Quadradodepares.csproj", "{FFA2E273-038E-47FD-B5D1-BBE46608FC38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{5281FEE2-E339-4F9B-ADB4-5A3EA228DE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5281FEE2-E339-4F9B-ADB4-5A3EA228DE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5281FEE2-E339-4F9B-ADB4-5A3EA228DE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
