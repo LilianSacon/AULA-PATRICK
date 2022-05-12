@@ -7,18 +7,23 @@ namespace Beecrowd_seisnumerosimpares
         static void Main(string[] args)
         {
             int X;
-            int i;
+            int contador = 1;
 
-            int.TryParse(Console.ReadLine(), out X);
-
-            for (i = 1; i <= X; i = i++)
             {
-                if (i % 6 != 0)
+                int.TryParse(Console.ReadLine(), out X);
+
+                while (contador <= 6)
                 {
-                    Console.WriteLine(i);
+                    if (X % 2 != 0)
+                    {
+                        contador++;
+                        Console.WriteLine(X);
+                        
+                    }
+
+                    X++;
+
                 }
-
-
             }
         }
     }
