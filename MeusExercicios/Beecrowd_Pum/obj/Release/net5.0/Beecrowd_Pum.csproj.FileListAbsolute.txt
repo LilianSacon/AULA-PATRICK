@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\bin\Release\net5.0\Beecrowd_Pum.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\bin\Release\net5.0\Beecrowd_Pum.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\bin\Release\net5.0\Beecrowd_Pum.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\bin\Release\net5.0\Beecrowd_Pum.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\bin\Release\net5.0\Beecrowd_Pum.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\bin\Release\net5.0\Beecrowd_Pum.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\refint\Beecrowd_Pum.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\Beecrowd_Pum.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Pum\obj\Release\net5.0\ref\Beecrowd_Pum.dll

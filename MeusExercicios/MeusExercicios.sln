@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Intervalo2", "Beec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Quadradodepares", "Beecrowd_Quadradodepares\Beecrowd_Quadradodepares.csproj", "{FFA2E273-038E-47FD-B5D1-BBE46608FC38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Pum", "Beecrowd_Pum\Beecrowd_Pum.csproj", "{CC9602B4-4F78-4DB0-B87D-2839475E235C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFA2E273-038E-47FD-B5D1-BBE46608FC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9602B4-4F78-4DB0-B87D-2839475E235C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9602B4-4F78-4DB0-B87D-2839475E235C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9602B4-4F78-4DB0-B87D-2839475E235C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9602B4-4F78-4DB0-B87D-2839475E235C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
