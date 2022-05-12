@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\bin\Release\net5.0\Beecrowd_Intervalo2.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\bin\Release\net5.0\Beecrowd_Intervalo2.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\bin\Release\net5.0\Beecrowd_Intervalo2.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\bin\Release\net5.0\Beecrowd_Intervalo2.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\bin\Release\net5.0\Beecrowd_Intervalo2.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\bin\Release\net5.0\Beecrowd_Intervalo2.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\refint\Beecrowd_Intervalo2.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\Beecrowd_Intervalo2.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_Intervalo2\obj\Release\net5.0\ref\Beecrowd_Intervalo2.dll

@@ -9,15 +9,26 @@ namespace Beecrowd_Intervalo2
             int N;
             int X;
             int i;
+            int contadorin=0;
+            int contadorout = 0;
 
+            int.TryParse(Console.ReadLine(), out N);
 
-            int.TryParse(Console.ReadLine(), out Entrada);
-
-            for (i = 0; i < Entrada; i++)
+            for (i = 0; i < N; i++)
             {
-                int.TryParse(Console.ReadLine(), out Entrada1);
-                X[i] = Entrada1;
+                int.TryParse(Console.ReadLine(), out X);
+
+                if ((X >= 10) && (X <= 20))
+                {
+                    contadorin++ ;
+                }
+                else
+                {
+                    contadorout++;
+                }
             }
+            Console.WriteLine(contadorin + (" in"));
+            Console.WriteLine(contadorout + (" out"));
         }
     }
 }
