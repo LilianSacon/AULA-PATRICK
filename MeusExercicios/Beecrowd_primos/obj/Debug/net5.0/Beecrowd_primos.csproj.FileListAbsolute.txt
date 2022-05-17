@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\bin\Debug\net5.0\Beecrowd_primos.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\bin\Debug\net5.0\Beecrowd_primos.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\bin\Debug\net5.0\Beecrowd_primos.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\bin\Debug\net5.0\Beecrowd_primos.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\bin\Debug\net5.0\Beecrowd_primos.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\bin\Debug\net5.0\Beecrowd_primos.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\refint\Beecrowd_primos.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\Beecrowd_primos.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_primos\obj\Debug\net5.0\ref\Beecrowd_primos.dll

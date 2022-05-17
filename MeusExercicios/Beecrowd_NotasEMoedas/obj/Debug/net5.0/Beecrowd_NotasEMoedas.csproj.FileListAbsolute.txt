@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\bin\Debug\net5.0\Beecrowd_NotasEMoedas.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\bin\Debug\net5.0\Beecrowd_NotasEMoedas.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\bin\Debug\net5.0\Beecrowd_NotasEMoedas.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\bin\Debug\net5.0\Beecrowd_NotasEMoedas.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\bin\Debug\net5.0\Beecrowd_NotasEMoedas.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\bin\Debug\net5.0\Beecrowd_NotasEMoedas.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\refint\Beecrowd_NotasEMoedas.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\Beecrowd_NotasEMoedas.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_NotasEMoedas\obj\Debug\net5.0\ref\Beecrowd_NotasEMoedas.dll
