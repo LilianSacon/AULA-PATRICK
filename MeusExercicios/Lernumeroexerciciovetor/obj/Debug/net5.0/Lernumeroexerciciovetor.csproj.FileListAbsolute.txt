@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\bin\Debug\net5.0\Lernumeroexerciciovetor.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\bin\Debug\net5.0\Lernumeroexerciciovetor.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\bin\Debug\net5.0\Lernumeroexerciciovetor.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\bin\Debug\net5.0\Lernumeroexerciciovetor.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\bin\Debug\net5.0\Lernumeroexerciciovetor.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\bin\Debug\net5.0\Lernumeroexerciciovetor.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\refint\Lernumeroexerciciovetor.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\Lernumeroexerciciovetor.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Lernumeroexerciciovetor\obj\Debug\net5.0\ref\Lernumeroexerciciovetor.dll

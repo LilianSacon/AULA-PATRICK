@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\bin\Debug\net5.0\CampoMinado.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\bin\Debug\net5.0\CampoMinado.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\bin\Debug\net5.0\CampoMinado.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\bin\Debug\net5.0\CampoMinado.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\bin\Debug\net5.0\CampoMinado.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\bin\Debug\net5.0\CampoMinado.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\refint\CampoMinado.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\CampoMinado.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\CampoMinado\obj\Debug\net5.0\ref\CampoMinado.dll

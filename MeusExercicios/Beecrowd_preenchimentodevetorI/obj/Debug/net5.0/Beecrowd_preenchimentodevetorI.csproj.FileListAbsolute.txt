@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\bin\Debug\net5.0\Beecrowd_preenchimentodevetorI.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\bin\Debug\net5.0\Beecrowd_preenchimentodevetorI.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\bin\Debug\net5.0\Beecrowd_preenchimentodevetorI.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\bin\Debug\net5.0\Beecrowd_preenchimentodevetorI.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\bin\Debug\net5.0\Beecrowd_preenchimentodevetorI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\bin\Debug\net5.0\Beecrowd_preenchimentodevetorI.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\refint\Beecrowd_preenchimentodevetorI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\Beecrowd_preenchimentodevetorI.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_preenchimentodevetorI\obj\Debug\net5.0\ref\Beecrowd_preenchimentodevetorI.dll
