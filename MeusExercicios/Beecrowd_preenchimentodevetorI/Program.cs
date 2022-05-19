@@ -19,7 +19,7 @@ namespace Beecrowd_preenchimentodevetorI
             }
             for (i = 0; i < 10; i++)
             {
-                   Console.WriteLine("N[" + i + "] = " + N[i]);
+                Console.WriteLine("N[" + i + "] = " + N[i]);
             }
         }
     }

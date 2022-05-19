@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\bin\Debug\net5.0\Beecrowd_selecaoemvetorI.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\bin\Debug\net5.0\Beecrowd_selecaoemvetorI.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\bin\Debug\net5.0\Beecrowd_selecaoemvetorI.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\bin\Debug\net5.0\Beecrowd_selecaoemvetorI.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\bin\Debug\net5.0\Beecrowd_selecaoemvetorI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\bin\Debug\net5.0\Beecrowd_selecaoemvetorI.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\refint\Beecrowd_selecaoemvetorI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\Beecrowd_selecaoemvetorI.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_selecaoemvetorI\obj\Debug\net5.0\ref\Beecrowd_selecaoemvetorI.dll

@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampoMinado", "CampoMinado\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_preenchimentodevetorI", "Beecrowd_preenchimentodevetorI\Beecrowd_preenchimentodevetorI.csproj", "{68810090-277D-4746-99C4-62DADEB8BE50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_selecaoemvetorI", "Beecrowd_selecaoemvetorI\Beecrowd_selecaoemvetorI.csproj", "{74B2C30A-712E-43EA-914E-8CBE4846ED4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{68810090-277D-4746-99C4-62DADEB8BE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68810090-277D-4746-99C4-62DADEB8BE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68810090-277D-4746-99C4-62DADEB8BE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B2C30A-712E-43EA-914E-8CBE4846ED4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B2C30A-712E-43EA-914E-8CBE4846ED4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B2C30A-712E-43EA-914E-8CBE4846ED4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B2C30A-712E-43EA-914E-8CBE4846ED4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
