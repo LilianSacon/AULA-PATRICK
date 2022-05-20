@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\bin\Debug\net5.0\Beecrowd_menoreposicao.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\bin\Debug\net5.0\Beecrowd_menoreposicao.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\bin\Debug\net5.0\Beecrowd_menoreposicao.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\bin\Debug\net5.0\Beecrowd_menoreposicao.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\bin\Debug\net5.0\Beecrowd_menoreposicao.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\bin\Debug\net5.0\Beecrowd_menoreposicao.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\refint\Beecrowd_menoreposicao.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\Beecrowd_menoreposicao.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_menoreposicao\obj\Debug\net5.0\ref\Beecrowd_menoreposicao.dll
