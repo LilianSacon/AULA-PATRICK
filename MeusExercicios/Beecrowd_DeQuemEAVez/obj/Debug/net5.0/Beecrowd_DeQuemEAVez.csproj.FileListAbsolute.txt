@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\bin\Debug\net5.0\Beecrowd_DeQuemEAVez.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\bin\Debug\net5.0\Beecrowd_DeQuemEAVez.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\bin\Debug\net5.0\Beecrowd_DeQuemEAVez.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\bin\Debug\net5.0\Beecrowd_DeQuemEAVez.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\bin\Debug\net5.0\Beecrowd_DeQuemEAVez.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\bin\Debug\net5.0\Beecrowd_DeQuemEAVez.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\refint\Beecrowd_DeQuemEAVez.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\Beecrowd_DeQuemEAVez.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_DeQuemEAVez\obj\Debug\net5.0\ref\Beecrowd_DeQuemEAVez.dll
