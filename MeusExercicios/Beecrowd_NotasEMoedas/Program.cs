@@ -56,9 +56,7 @@ namespace Beecrowd_NotasEMoedas
             valor = valor - (moeda5 * 0.05);
             Console.WriteLine(moeda5 + " moeda(s) de R$ 0.05");
 
-            double moeda6 = Math.Truncate(valor / 0.01);
-            valor = valor - (moeda6 * 0.01);
-            Console.WriteLine(moeda6 + " moeda(s) de R$ 0.01");
+            Console.WriteLine(Math.Round(valor / 0.01) + " moeda(s) de R$ 0.01");
         }
     }
 }
