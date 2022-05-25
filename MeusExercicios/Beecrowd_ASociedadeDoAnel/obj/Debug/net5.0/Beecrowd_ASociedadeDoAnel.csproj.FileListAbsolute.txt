@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\bin\Debug\net5.0\Beecrowd_ASociedadeDoAnel.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\bin\Debug\net5.0\Beecrowd_ASociedadeDoAnel.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\bin\Debug\net5.0\Beecrowd_ASociedadeDoAnel.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\bin\Debug\net5.0\Beecrowd_ASociedadeDoAnel.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\bin\Debug\net5.0\Beecrowd_ASociedadeDoAnel.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\bin\Debug\net5.0\Beecrowd_ASociedadeDoAnel.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\refint\Beecrowd_ASociedadeDoAnel.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\Beecrowd_ASociedadeDoAnel.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_ASociedadeDoAnel\obj\Debug\net5.0\ref\Beecrowd_ASociedadeDoAnel.dll
