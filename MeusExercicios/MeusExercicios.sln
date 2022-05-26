@@ -87,7 +87,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_menoreposicao", "B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_DeQuemEAVez", "Beecrowd_DeQuemEAVez\Beecrowd_DeQuemEAVez.csproj", "{D7781E00-B3C8-48D3-A16A-3A70E69B4316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_ASociedadeDoAnel", "Beecrowd_ASociedadeDoAnel\Beecrowd_ASociedadeDoAnel.csproj", "{618DAB99-FD87-40F0-9AE6-D1CEBAAFC1D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_ASociedadeDoAnel", "Beecrowd_ASociedadeDoAnel\Beecrowd_ASociedadeDoAnel.csproj", "{618DAB99-FD87-40F0-9AE6-D1CEBAAFC1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_MatrizQuadradaI", "Beecrowd_MatrizQuadradaI\Beecrowd_MatrizQuadradaI.csproj", "{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{618DAB99-FD87-40F0-9AE6-D1CEBAAFC1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618DAB99-FD87-40F0-9AE6-D1CEBAAFC1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618DAB99-FD87-40F0-9AE6-D1CEBAAFC1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

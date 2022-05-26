@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\bin\Debug\net5.0\Beecrowd_MatrizQuadradaI.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\bin\Debug\net5.0\Beecrowd_MatrizQuadradaI.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\bin\Debug\net5.0\Beecrowd_MatrizQuadradaI.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\bin\Debug\net5.0\Beecrowd_MatrizQuadradaI.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\bin\Debug\net5.0\Beecrowd_MatrizQuadradaI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\bin\Debug\net5.0\Beecrowd_MatrizQuadradaI.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\refint\Beecrowd_MatrizQuadradaI.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\Beecrowd_MatrizQuadradaI.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_MatrizQuadradaI\obj\Debug\net5.0\ref\Beecrowd_MatrizQuadradaI.dll

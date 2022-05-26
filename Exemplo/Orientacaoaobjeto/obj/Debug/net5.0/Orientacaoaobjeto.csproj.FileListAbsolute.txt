@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\bin\Debug\net5.0\Orientacaoaobjeto.exe
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\bin\Debug\net5.0\Orientacaoaobjeto.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\bin\Debug\net5.0\Orientacaoaobjeto.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\bin\Debug\net5.0\Orientacaoaobjeto.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\bin\Debug\net5.0\Orientacaoaobjeto.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\bin\Debug\net5.0\Orientacaoaobjeto.pdb
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\refint\Orientacaoaobjeto.dll
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.pdb
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\Orientacaoaobjeto.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\Exemplo\Orientacaoaobjeto\obj\Debug\net5.0\ref\Orientacaoaobjeto.dll
