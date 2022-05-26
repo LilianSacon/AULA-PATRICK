@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_ASociedadeDoAnel",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_MatrizQuadradaI", "Beecrowd_MatrizQuadradaI\Beecrowd_MatrizQuadradaI.csproj", "{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Led", "Beecrowd_Led\Beecrowd_Led.csproj", "{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

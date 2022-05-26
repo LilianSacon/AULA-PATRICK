@@ -3,7 +3,7 @@
 namespace Beecrowd_preenchimentodevetorI
 {
     internal class Program
-    {
+    {       
         static void Main(string[] args)
         {
             int [] N = new int[10];
