@@ -6,7 +6,7 @@ namespace Beecrowd_menoreposicao
     {
         static void Main(string[] args)
         {
-            int N;
+            int N;  
             int valores;
             int menor = 0;
             int posicao= 0;

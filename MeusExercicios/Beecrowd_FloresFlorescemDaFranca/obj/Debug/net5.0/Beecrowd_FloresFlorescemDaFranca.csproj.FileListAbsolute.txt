@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\bin\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\bin\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\bin\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\bin\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\bin\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\bin\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\refint\Beecrowd_FloresFlorescemDaFranca.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\Beecrowd_FloresFlorescemDaFranca.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_FloresFlorescemDaFranca\obj\Debug\net5.0\ref\Beecrowd_FloresFlorescemDaFranca.dll

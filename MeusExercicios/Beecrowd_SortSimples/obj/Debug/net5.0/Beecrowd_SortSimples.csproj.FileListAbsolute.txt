@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\bin\Debug\net5.0\Beecrowd_SortSimples.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\bin\Debug\net5.0\Beecrowd_SortSimples.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\bin\Debug\net5.0\Beecrowd_SortSimples.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\bin\Debug\net5.0\Beecrowd_SortSimples.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\bin\Debug\net5.0\Beecrowd_SortSimples.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\bin\Debug\net5.0\Beecrowd_SortSimples.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\refint\Beecrowd_SortSimples.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\Beecrowd_SortSimples.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_SortSimples\obj\Debug\net5.0\ref\Beecrowd_SortSimples.dll

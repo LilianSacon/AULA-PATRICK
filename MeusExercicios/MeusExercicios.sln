@@ -89,9 +89,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_DeQuemEAVez", "Bee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_ASociedadeDoAnel", "Beecrowd_ASociedadeDoAnel\Beecrowd_ASociedadeDoAnel.csproj", "{618DAB99-FD87-40F0-9AE6-D1CEBAAFC1D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_MatrizQuadradaI", "Beecrowd_MatrizQuadradaI\Beecrowd_MatrizQuadradaI.csproj", "{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_MatrizQuadradaI", "Beecrowd_MatrizQuadradaI\Beecrowd_MatrizQuadradaI.csproj", "{D2B34ED2-4AB5-47CF-A4D3-C6B6B58B677F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_Led", "Beecrowd_Led\Beecrowd_Led.csproj", "{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_Led", "Beecrowd_Led\Beecrowd_Led.csproj", "{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_FloresFlorescemDaFranca", "Beecrowd_FloresFlorescemDaFranca\Beecrowd_FloresFlorescemDaFranca.csproj", "{A5A24B91-5E6F-4109-AC1E-86BE3A2214E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_SortSimples", "Beecrowd_SortSimples\Beecrowd_SortSimples.csproj", "{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +283,14 @@ Global
 		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB0ABC6D-4D1C-4FEE-B1E6-2E3203D0694A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A24B91-5E6F-4109-AC1E-86BE3A2214E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A24B91-5E6F-4109-AC1E-86BE3A2214E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A24B91-5E6F-4109-AC1E-86BE3A2214E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A24B91-5E6F-4109-AC1E-86BE3A2214E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
