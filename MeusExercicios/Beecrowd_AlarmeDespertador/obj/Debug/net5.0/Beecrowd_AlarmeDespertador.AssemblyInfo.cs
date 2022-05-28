@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Orientacaoaobjeto")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Beecrowd_AlarmeDespertador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Orientacaoaobjeto")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Orientacaoaobjeto")]
+[assembly: System.Reflection.AssemblyProductAttribute("Beecrowd_AlarmeDespertador")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Beecrowd_AlarmeDespertador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

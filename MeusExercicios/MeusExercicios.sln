@@ -95,7 +95,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_Led", "Beecrowd_Le
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_FloresFlorescemDaFranca", "Beecrowd_FloresFlorescemDaFranca\Beecrowd_FloresFlorescemDaFranca.csproj", "{A5A24B91-5E6F-4109-AC1E-86BE3A2214E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_SortSimples", "Beecrowd_SortSimples\Beecrowd_SortSimples.csproj", "{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beecrowd_SortSimples", "Beecrowd_SortSimples\Beecrowd_SortSimples.csproj", "{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd_AlarmeDespertador", "Beecrowd_AlarmeDespertador\Beecrowd_AlarmeDespertador.csproj", "{ECFB5802-1BD9-4B69-8C26-5E5BE26CF1E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB1140A8-2730-4CE3-AD30-8F1CDE961A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFB5802-1BD9-4B69-8C26-5E5BE26CF1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB5802-1BD9-4B69-8C26-5E5BE26CF1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB5802-1BD9-4B69-8C26-5E5BE26CF1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB5802-1BD9-4B69-8C26-5E5BE26CF1E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

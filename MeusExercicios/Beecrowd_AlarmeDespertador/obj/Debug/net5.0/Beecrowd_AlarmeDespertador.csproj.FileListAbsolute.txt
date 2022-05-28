@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\bin\Debug\net5.0\Beecrowd_AlarmeDespertador.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\bin\Debug\net5.0\Beecrowd_AlarmeDespertador.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\bin\Debug\net5.0\Beecrowd_AlarmeDespertador.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\bin\Debug\net5.0\Beecrowd_AlarmeDespertador.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\bin\Debug\net5.0\Beecrowd_AlarmeDespertador.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\bin\Debug\net5.0\Beecrowd_AlarmeDespertador.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\refint\Beecrowd_AlarmeDespertador.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\Beecrowd_AlarmeDespertador.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_AlarmeDespertador\obj\Debug\net5.0\ref\Beecrowd_AlarmeDespertador.dll
