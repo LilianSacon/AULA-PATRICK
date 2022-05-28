@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\bin\Debug\net5.0\Beecrowd_dama.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\bin\Debug\net5.0\Beecrowd_dama.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\bin\Debug\net5.0\Beecrowd_dama.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\bin\Debug\net5.0\Beecrowd_dama.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\bin\Debug\net5.0\Beecrowd_dama.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\bin\Debug\net5.0\Beecrowd_dama.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\refint\Beecrowd_dama.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\Beecrowd_dama.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_dama\obj\Debug\net5.0\ref\Beecrowd_dama.dll
