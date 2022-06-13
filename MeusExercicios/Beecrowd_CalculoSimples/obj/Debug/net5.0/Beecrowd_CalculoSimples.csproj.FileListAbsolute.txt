@@ -1,0 +1,16 @@
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\bin\Debug\net5.0\Beecrowd_CalculoSimples.exe
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\bin\Debug\net5.0\Beecrowd_CalculoSimples.deps.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\bin\Debug\net5.0\Beecrowd_CalculoSimples.runtimeconfig.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\bin\Debug\net5.0\Beecrowd_CalculoSimples.runtimeconfig.dev.json
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\bin\Debug\net5.0\Beecrowd_CalculoSimples.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\bin\Debug\net5.0\Beecrowd_CalculoSimples.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.csproj.AssemblyReference.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.AssemblyInfoInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.AssemblyInfo.cs
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.csproj.CoreCompileInputs.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\refint\Beecrowd_CalculoSimples.dll
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.pdb
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\Beecrowd_CalculoSimples.genruntimeconfig.cache
+D:\Cursos\Programacao\AULA-PATRICK\MeusExercicios\Beecrowd_CalculoSimples\obj\Debug\net5.0\ref\Beecrowd_CalculoSimples.dll
